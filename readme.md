@@ -1,15 +1,15 @@
- <h1 align="center"> 📱 Sandra Costales Romero 💻</h1>
+ <h1 align="center"> 📱 Sandra Costales 💻</h1>
 
 
 <table><tr><td valign="top" width="50%">
 
-- 💻 Administración de Sistemas
+- 💻 Systems Administration
 
-- 🔐 Ciberseguridad
+- 🔐 Cybersecurity
 
-- 🌐 Redes Informáticas
+- 🌐 Computer Network Systems
 
-- 🚀 Desarrollo de Soluciones Tecnológicas
+
 
 
 </td><td valign="top" width="50%">
