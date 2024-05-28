@@ -20,7 +20,7 @@
 </td></tr></table>  
 <br/>
 
-<h2> Skills :</h2>
+<h1> Skills :</h1>
 
 
 <p align="center">
