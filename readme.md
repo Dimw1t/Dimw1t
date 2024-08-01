@@ -6,21 +6,22 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDgzMmtzamtpeTB6cmF3aHZ2NmNyM3JyYzlhcG5uaHRjd3JuNTJ4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" alt="image" width="450" align="right">
   </p>
 
-- 💻 Systems Administration
+   &lt;configuration&gt;
 
-- 🔐 Network Security
+🖥️ Systems Administration
 
-- 🌐 Computer Network Systems
+🛡️ Network Security
 
-- 🔒 Ethical Hacking
+📶 Network Monitoring
 
-- 📡 Network Monitoring
+👾 Ethical Hacking
 
-- 💾 Data Backup and Recovery
+💥 Penetration Testing
 
-- 🛡️ Penetration Testing
+🕵️ Vulnerability Analysis
 
-- 🔍Vulnerability Analysis 
+   &lt;/configuration&gt;
+
 
 <h1> Skills :</h1>
 
