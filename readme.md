@@ -12,13 +12,13 @@
 
 🛡️ Network Security
 
-📶 Network Monitoring
+🔍 Soc Researcher
 
 👾 Ethical Hacking
 
 💥 Penetration Testing
 
-🕵️ Vulnerability Analysis
+ ⚙️ SIEM Configuration
 
    &lt;/configuration&gt;
 
